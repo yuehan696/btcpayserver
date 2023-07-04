@@ -3,11 +3,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using BTCPayServer.Abstractions.Constants;
-using BTCPayServer.Abstractions.Extensions;
-using BTCPayServer.Client;
-using BTCPayServer.Filters;
-using BTCPayServer.ModelBinders;
-using BTCPayServer.Models;
+
 using BTCPayServer.Security;
 using BTCPayServer.Services.Invoices;
 using Microsoft.AspNetCore.Authorization;
